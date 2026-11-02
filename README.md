@@ -56,6 +56,6 @@ The dashboard includes:
 - Provide targeted training and mentoring to improve salesperson performance.
 
 
-DASHBOARD OF DATA ANALYTICS.pn
 
-CAUSE & RECOMMENDATION.png
+
+
